@@ -9,4 +9,9 @@ class GitDemo
     {
         Console.WriteLine("Hello");
     }
+
+    public int doubler(int a)
+    {
+        return a * 2;
+    }
 }

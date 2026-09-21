@@ -14,4 +14,9 @@ class GitDemo
     {
         return a * 2;
     }
+
+    public int sixnine()
+    {
+        return 69;
+    }
 }

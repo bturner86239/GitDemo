@@ -14,4 +14,9 @@ class GitDemo
     {
         return a * 2;
     }
+
+    public bool inverse(bool a)
+    {
+        return !a;
+    }
 }

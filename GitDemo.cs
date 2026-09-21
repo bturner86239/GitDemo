@@ -19,4 +19,9 @@ class GitDemo
     {
         return !a;
     }
+
+    public string hello()
+    {
+        return "Hello There!";
+    }
 }
